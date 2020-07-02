@@ -1,0 +1,6 @@
+package your_organization.money_note
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
