@@ -1,0 +1,4 @@
+#Thu Jul 02 18:50:35 CST 2020
+base.0=C\:\\Users\\zyxcy\\Downloads\\money_note O\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
